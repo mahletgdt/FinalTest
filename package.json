@@ -1,0 +1,21 @@
+{
+  "name": "cypressp1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "testing"
+  ],
+  "author": "MG",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.4.0"
+  },
+  "dependencies": {
+    "cypress-iframe": "^1.0.1"
+  }
+}
